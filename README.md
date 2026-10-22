@@ -15,12 +15,12 @@ an evaluation report, prompt-injection guardrails and a cost per 1,000 calls.
 
 ## Team
 
+## Team
+
 | Name | GitHub | Role |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+| --- | --- | --- |
+| Manel R. | mrahali-cell | Prompts & evaluation |
+| Soumaya Ataoui | TBD | API & structured outputs |
 
 ## How this repo grows
 
